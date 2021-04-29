@@ -439,6 +439,10 @@ func main() {
 		case 10:
 
 			display(st)
+			
+		case 11:
+			break
+			
 		default :
 			fmt.Println("Enter valid choice")
 		}
